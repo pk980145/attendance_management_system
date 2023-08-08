@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(143, 113, 171);
+}
+
+#form{
+    background-color: rgb(234, 51, 51);
+    width: 25%;
+    margin:120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgb(106, 30, 101);
+    border-radius: 6px;
+}
+
+#sbmt{
+    color: rgb(213, 117, 117);
+    background-color: rgb(80, 80, 194);
+    padding: 10px;
+    font-size: large;
+    border-radius: 10px;
+
+}
