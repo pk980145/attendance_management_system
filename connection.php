@@ -8,5 +8,5 @@
     if($conn ->connect_error){
         die("connection failed".$conn->connect_error);
     }
-    else{echo "connection established";}
+    //else{echo "connection established";}
 ?>

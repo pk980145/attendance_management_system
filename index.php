@@ -13,6 +13,13 @@
     <div id="form">
         <h1>Login Form</h1>
         <form name="form" method="post" action=login.php>
+
+        <label for="category">Select your Category:</label>
+        <select name="category" id="category">
+            <option value="teacher">Teacher</option>
+            <option value="student">Student</option>
+        </select><br><br>
+
             <label>Username:</label>
             <input type="text" name="user" id="user"><br><br>
             <label>Password: </label>
